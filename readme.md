@@ -1,10 +1,10 @@
 # NCE Lives
 
-Main Site: https://ncehk2019.github.io/xr-live/
+Main Site: https://markie1611.github.io/xr-live/
 
 Mirror Site: https://xr-live.web.app/
 
-Data Source Repo: https://github.com/ncehk2019/xr-live-datasrc
+Data Source Repo: https://github.com/markie1611/xr-live-datasrc
 
 Our telegram channel: https://t.me/ncelive
 
